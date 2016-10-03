@@ -42,5 +42,4 @@ Relevant Journal:
 
 http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1944-2866
 
-The EUDACT Wiki of readings and links, mostly on crowdsourcing, and citizen-based approaches
-Last modified: Friday, 16 October 2015, 6:15 PM
+
